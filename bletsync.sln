@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bletsync", "bletsync\bletsync.csproj", "{0899282E-9CE6-4048-AA25-F4B576684C91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0899282E-9CE6-4048-AA25-F4B576684C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0899282E-9CE6-4048-AA25-F4B576684C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0899282E-9CE6-4048-AA25-F4B576684C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0899282E-9CE6-4048-AA25-F4B576684C91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11E4E1CB-0E9B-416B-BEA7-8C46B05328A7}
+	EndGlobalSection
+EndGlobal
